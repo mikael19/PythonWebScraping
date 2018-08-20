@@ -7,6 +7,7 @@
 ### OS constraints:
 - Ubuntu 16
 - Python 3.6.0 
+- chromedriver
 
 ## Create a directory
 This directory will be the virtualenv for this project
