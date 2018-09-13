@@ -1,7 +1,3 @@
-# Does the following
-- Scrape data from this website: https://www.lonelyplanet.com/africa/attractions/a/poi-sig/355064
-- populate an excel spread sheet with every sight in Africa sort by location, type of sight and the description.
-
 # How to run
 
 ### OS constraints:
